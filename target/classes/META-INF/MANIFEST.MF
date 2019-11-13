@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sba-registry
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ShuaiChen
+Implementation-Vendor-Id: com.sba
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/registry
+Created-By: Maven Integration for Eclipse
+
